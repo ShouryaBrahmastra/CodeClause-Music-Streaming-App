@@ -13,7 +13,7 @@
 
 <div align="center">
 
-![Home Page]([https://drive.google.com/uc?id=1ayxhKGDHtysZPMqti6k4ZY072nm3I3MZ](https://drive.google.com/file/d/1PV9iMKI70C4tC27yX1fpUrY7COYdaDib/view?usp=sharing))
+![Home Page](https://raw.githubusercontent.com/ShouryaBrahmastra/CodeClause-Music-Streaming-App/main/src/components/assets/img/front.jpeg)
 
     A music app made with the help of React.js.
     
